@@ -1,3 +1,8 @@
+//Company: Synergy At Work
+//Author: Richard Ighodaro
+//Date: Sunday 13th May 2018
+//Description:
+
 import React, { Component } from 'react';
 
 import { Tasks } from '../api/tasks.js'; // add mongo collection
