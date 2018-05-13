@@ -6,9 +6,9 @@ import Task from './Task.js';
 export default class App extends Component {
     getTasks() {
        return [
-           { _id: 1, text: 'This is task 1'},
-           { _id: 2, text: 'This is task 1'},
-           { _id: 3, text: 'This is task 1'},
+           { _id: 1, text: 'This is a Performance Form  - 2018'},
+           { _id: 2, text: 'This is a Performance Form  - 2017'},
+           { _id: 3, text: 'This is a Performance Form  - 2016'},
        ];
     }
 
@@ -22,7 +22,7 @@ export default class App extends Component {
        return (
           <div className="container">
             <header>
-                <h1>Todo List</h1>
+                <h1>Performance Form List</h1>
             </header>
 
             <ul>
