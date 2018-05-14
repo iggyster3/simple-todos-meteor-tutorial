@@ -1,3 +1,8 @@
+//Company: Synergy At Work
+//Author: Richard Ighodaro
+//Date: Sunday 14th May 2018
+//Description: To do App Class Logic
+
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import { withTracker } from 'meteor/react-meteor-data';
